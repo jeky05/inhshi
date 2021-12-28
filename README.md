@@ -1,2 +1,0 @@
-# inhshi
-Created with CodeSandbox
